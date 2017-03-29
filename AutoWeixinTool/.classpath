@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.6.0_45"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/iter_lib"/>
+	<classpathentry kind="lib" path="jar/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="jar/commons-lang.jar"/>
+	<classpathentry kind="lib" path="jar/dbswing.jar"/>
+	<classpathentry kind="lib" path="jar/dx.jar"/>
+	<classpathentry kind="lib" path="jar/ezmorph-1.0.2.jar"/>
+	<classpathentry kind="lib" path="jar/jbcl.jar"/>
+	<classpathentry kind="lib" path="jar/tchejb2.jar"/>
+	<classpathentry kind="lib" path="jar/tchWeixinInter_jdk1.5_v2.0.2.3.jar"/>
+	<classpathentry kind="lib" path="jar/commons-logging.jar"/>
+	<classpathentry kind="lib" path="jar/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="jar/jave-1.0.2.jar"/>
+	<classpathentry kind="lib" path="jar/json.jar"/>
+	<classpathentry kind="lib" path="jar/json-lib-2.1-jdk15.jar"/>
+	<classpathentry kind="lib" path="jar/ojdbc14_g.jar"/>
+	<classpathentry kind="lib" path="jar/ojdbc14.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
